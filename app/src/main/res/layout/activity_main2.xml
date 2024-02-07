@@ -18,13 +18,31 @@
         android:id="@+id/textView"
         android:layout_width="218dp"
         android:layout_height="274dp"
-        android:text="TextView"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:text=" 1/2 cups salted butter, softened
+
+1 cup white sugar\n
+
+1 teaspoon baking powder\n
+
+1/4 teaspoon salt\n
+
+1 large egg\n
+
+1 teaspoon vanilla extract\n
+
+1/4 teaspoon almond extract\n
+
+3 1/2 cups all-purpose flour\n
+
+2 tablespoons colored sugar, nonpareils, or sprinkles, or as needed (optional)\n
+
+powdered sugar icing (optional)\n"
+        app:layout_constraintBottom_toTopOf="@+id/imageView3"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.549"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.137"
+        app:layout_constraintVertical_bias="0.133"
         tools:text="1 1/2 cups salted butter, softened
 
 1 cup white sugar\n
